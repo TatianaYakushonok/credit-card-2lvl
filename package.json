@@ -1,0 +1,18 @@
+{
+  "name": "m6-lesson_11",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "",
+  "dependencies": {
+    "creditcard.js": "^3.0.33",
+    "imask": "^7.6.0",
+    "redom": "^4.0.0"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "parcel": "^2.12.0"
+  }
+}
